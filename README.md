@@ -1,4 +1,4 @@
-# Hi, I'm ODEYINKA ODEDIRAN 👋
+# Hi, I'm ODEYINKA ODEDIRAN 
 
 ## Agile Project Manager | Scrum Master | Project Coordinator
 
@@ -10,25 +10,25 @@ I am passionate about delivering successful projects using Agile methodologies a
 
 ## Core Skills
 
-✔ Agile Project Management
+-Agile Project Management
 
-✔ Scrum
+-Scrum
 
-✔ Kanban
+-Kanban
 
-✔ Jira
+-Jira
 
-✔ Confluence
+-Confluence
 
-✔ Stakeholder Management
+-Stakeholder Management
 
-✔ Risk Management
+-Risk Management
 
-✔ Sprint Planning
+-Sprint Planning
 
-✔ Business Analysis
+-Business Analysis
 
-✔ Project Documentation
+-Project Documentation
 
 ---
 
