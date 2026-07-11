@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm ODEYINKA ODEDIRAN 👋
 
-<!--
-**odeyinkaodediran/OdeyinkaODEDIRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Agile Project Manager | Scrum Master | Project Coordinator
 
-Here are some ideas to get you started:
+Welcome to my professional portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about delivering successful projects using Agile methodologies and collaborative project management tools.
+
+---
+
+## Core Skills
+
+✔ Agile Project Management
+
+✔ Scrum
+
+✔ Kanban
+
+✔ Jira
+
+✔ Confluence
+
+✔ Stakeholder Management
+
+✔ Risk Management
+
+✔ Sprint Planning
+
+✔ Business Analysis
+
+✔ Project Documentation
+
+---
+
+## Featured Projects
+
+FocusFlow MVP
+
+Campus Sustainability Initiative
+
+Agile PM Templates
+
+---
+
+## Current Learning
+
+- Advanced Jira Administration
+
+- Agile Coaching
+
+- Product Ownership
+
+---
+
+## Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/odeyinka-odediran1/
+
+Email: odediranodeyinka@gmail.com
